@@ -1,0 +1,4 @@
+SQLAlchemy~=2.0.32
+fastapi~=0.112.0
+faststream~=0.5.17
+pydantic~=2.8.2
